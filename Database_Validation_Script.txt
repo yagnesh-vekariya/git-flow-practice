@@ -1,3 +1,2 @@
 verify data types for each column
 verify maximum supported characters
-verify with large number of records
