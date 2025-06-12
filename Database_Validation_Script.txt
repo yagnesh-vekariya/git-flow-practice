@@ -1,0 +1,2 @@
+verify data types for each column
+verify maximum supported characters
