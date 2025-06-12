@@ -1,1 +1,2 @@
 home page should be loaded faster
+home page elements should be display proper
